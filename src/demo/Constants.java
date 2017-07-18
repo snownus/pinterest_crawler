@@ -105,39 +105,9 @@ public class Constants {
 	public static String pinterest_ve_textMap = "pinterest_ve_textMap";
 	//check  verified number
 	public static Integer ve_boards_no = 100;
-
-
-	//data path
-	public static String im_path = "/mnt/gx/dataset/pinterest_fashion/";
+	
 
 	public static String COMMA_DELIMITER = ",";
 	public static String line_separator = System.getProperty("line.separator");
 
-
-	/*-----------------data pre-processing----------*/
-	public static String valid_im_info = "valid_im_info";
-	public static String valid_pin_im_info = "valid_pin_im_info";
-	public static String pin_im_link_desc_time = "pin_im_link_desc_time";
-
-	public static String sig_train_pin_im_link_desc_time = "sig_train_pin_im_link_desc_time"; 
-	public static String sig_test_pin_im_link_desc_time = "sig_test_pin_im_link_desc_time"; 
-	public static String sig_ims = "sig_ims";
-	public static String sig_train_board_ims = "sig_train_board_ims";
-	public static String sig_test_board_ims = "sig_test_board_ims";
-	public static String sig_train_board_pins = "sig_train_board_pins";
-	public static String sig_test_board_pins = "sig_test_board_pins";
-	public static String sig_train_pins = "sig_train_pins";
-
-	public static String sig_amazon_clothing_reviews = "amazon_clothing_review";
-	public static String sig_amazon_clothing_meta = "amazon_clothing_meta";
-
-	public static String sig_amazon_train_im_users = "amazon_train_im_users";
-	public static String sig_amazon_train_im_reviews = "amazon_train_im_reviews";
-	public static String sig_amazon_train_user_ims = "amazon_train_user_ims";
-
-	public static String sig_amazon_test_user_ims = "amazon_test_user_ims";
-	public static String sig_amazon_test_im_users = "amazon_test_im_users";
-	public static String sig_amazon_ims = "sig_amazon_ims";
-
-	public static String sig_amazon_used_reviews = "amazon_used_reviews";
 }
