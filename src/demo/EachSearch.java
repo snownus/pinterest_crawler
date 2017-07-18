@@ -95,7 +95,7 @@ public class EachSearch extends HttpContentRequest{
 	public static void main(String[] args){
 		String q = "women fashion";
 		int numSamples = 10;
-		String im_folder = "/home/gengxue/data/" + q;
+		String im_folder = "/home/gx/" + q;
 		File folder = new File(im_folder);
 		folder.mkdir();
 		

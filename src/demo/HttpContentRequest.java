@@ -20,7 +20,7 @@ import org.apache.commons.httpclient.methods.GetMethod;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-public class HttpContentRequest extends base_class {
+public class HttpContentRequest extends Base {
 	private static Integer readTimeOut = Constants.readTimeOut;
 	private static Integer connectionTimeOut = Constants.connectionTimeOut;
 	private static Integer maxConnectTimes = Constants.maxConnectionTime;

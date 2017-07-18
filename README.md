@@ -1,6 +1,11 @@
 # pinterest_crawler
-a system for pinterest crawling
+A system for pinterest crawling
 
-A demo for crawling Pinterest search pages.
+We give a demo for crawling search page first.
 
-Given a query, we can crawl images from the search page.
+Change the search query and data folder, you can crawl any pages. 
+
+
+
+# We will update the codes soon and build a system.
+
